@@ -11,9 +11,7 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+          Hello World and welcome to my page! I'm a banker turned web developer originally from The Bahamas - but I call New York City home now. I enjoy travelling and spending time at the beach when I can. I'm growing my skills in web development and I'm excited to show you my work! Links to some of my recent projects can be found below. Feel free to contact me by clicking any of the contact links below so we can get in touch! Hope you enjoy!
           </p>
           <div className="flex justify-center">
             <a
