@@ -20,6 +20,7 @@ This is my personal portfolio of work completed.
 ## Credits
 
 - Columbia Coding Bootcamp
+- https://www.freecodecamp.org/news/build-portfolio-website-react/ 
 
 ## License
 
