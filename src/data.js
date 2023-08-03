@@ -31,6 +31,14 @@ export const projects = [
     image: "./project-4.jpg",
     link: "https://vlexaega.github.io/hw4-webApi-codeQuiz/",
   },
+  {
+    title: "Full Stack Apollo Server, GraphQL, React Application",
+    subtitle: "Digital Art Gallery built with React, Apollo Server & GraphQL",
+    description:
+      "This group project was the final project of the Full Stack Software Engineering Bootcamp with Columbia University. The app was built with an Apollo Server and GraphQL backend and React front end. The app provides artists a platform to find inspiration and to share their work with the world.",
+    image: "./projectuntitled.jpg",
+    link: "https://github.com/vlexaega/project3-untitled",
+  },
 ];
 
 // export const testimonials = [
