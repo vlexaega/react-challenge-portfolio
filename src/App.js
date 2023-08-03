@@ -8,7 +8,7 @@ import Skills from "./components/Skills";
 
 export default function App() {
   return (
-    <main className="text-black-400 bg-blue-200 body-font">
+    <main className="text-black-400 bg-blue-200 font-Georgia">
       <Navbar />
       <About />
       <Projects />
