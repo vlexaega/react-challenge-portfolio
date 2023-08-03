@@ -32,6 +32,13 @@ export const projects = [
     link: "https://vlexaega.github.io/hw4-webApi-codeQuiz/",
   },
   {
+    title: "Progressive Web Application",
+    subtitle: "Just Another Text Editor",
+    description:"This is a single-page application that meets a PWA criteria. It features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.",
+    image: "./jate.pwa.jpg",
+    link: "https://pwa-text-editor-jate-8b90331c19fd.herokuapp.com/",
+  },
+  {
     title: "Full Stack Apollo Server, GraphQL, React Application",
     subtitle: "Digital Art Gallery built with React, Apollo Server & GraphQL",
     description:
