@@ -37,7 +37,7 @@ export const projects = [
     description:
       "This group project was the final project of the Full Stack Software Engineering Bootcamp with Columbia University. The app was built with an Apollo Server and GraphQL backend and React front end. The app provides artists a platform to find inspiration and to share their work with the world.",
     image: "./projectuntitled.jpg",
-    link: "https://github.com/vlexaega/project3-untitled",
+    link: "https://untitled-art-app-b560d4f5fa59.herokuapp.com/",
   },
 ];
 
