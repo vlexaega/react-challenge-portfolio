@@ -15,8 +15,14 @@ The purpose of this project was to create a portfolio using React.
 - No installation required
 
 ## Usage
+This is my portfolio built on React to demonstrate work that I have completed. 
+GitHub repo:
 
-This is my personal portfolio of work completed. 
+https://github.com/vlexaega/react-challenge-portfolioLinks to an external site. 
+
+Deployment link:
+https://main--cozy-peony-2dc787.netlify.app/Links to an external site. 
+
 ## Credits
 
 - Columbia Coding Bootcamp
