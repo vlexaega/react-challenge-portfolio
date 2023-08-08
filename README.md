@@ -21,7 +21,7 @@ GitHub repo:
 https://github.com/vlexaega/react-challenge-portfolioLinks to an external site. 
 
 Deployment link:
-https://main--cozy-peony-2dc787.netlify.app/Links to an external site. 
+https://alexvegaportfolio.netlify.app/
 
 ## Credits
 
